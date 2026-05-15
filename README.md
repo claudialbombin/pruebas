@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Mathematical & Scientific Software Engineer** passionate about high-performance computing, Bayesian inference, and numerical methods. I build production GPU-accelerated solvers and probabilistic models for financial and engineering problems.
+**Mathematical Modelling | GPU Software Engineer** passionate about high-performance computing, Bayesian inference, and numerical methods. I build production GPU-accelerated solvers and probabilistic models for financial and engineering problems.
 
 🔭 **Currently working on:** Multi-GPU re-architecture of HORSES3D, a high-order DG solver for compressible flows. Symbolic verification frameworks for CFD  
 🤝 **Looking to collaborate on:** GPU-accelerated scientific computing, Bayesian calibration tools, or reinforcement learning for trading strategies  
